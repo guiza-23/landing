@@ -1,0 +1,21 @@
+.footer {
+  background-color: rgb(52, 52, 52);
+  height: 200px;
+  align-items: center;
+  text-align: center;
+  color: grey;
+
+}
+
+.social {
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.social a{
+  font-size: 50px;
+  color: #1edd88;
+}

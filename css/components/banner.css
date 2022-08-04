@@ -1,0 +1,29 @@
+.banner {
+  margin: 0;
+  height: 400px;
+  color: white;
+  padding: 80px;
+
+}
+
+.banner > div {
+  width: 700px;
+  height: 300px;
+  margin: 0 auto;
+  padding: 80px;
+}
+
+.banner a {
+    margin: 20px 20px;
+    background-color:#44c767;
+    border-radius:28px;
+    color:#ffffff;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+    position: relative;
+    top: 36px;
+  }
+  .banner a:hover {
+    background-color:rgb(114, 239, 51);
+}
